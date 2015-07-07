@@ -12,7 +12,7 @@ Requirements
 Usage
 -----
 1. Download this repository as a zip (button on the right)
-2. Unzip contents into: <Arduino Root Path>\hardware\esp8266com\esp8266\libraries\ESP8266DynConfig
+2. Unzip contents into: [Arduino Root Path]\hardware\esp8266com\esp8266\libraries\ESP8266DynConfig
 3. Create an instance of the ESP8266DynConfig class.
 4. Create wrappers for handleConfigPage, and handleConfigPostPage
 5. Use whatever method you want to check for config mode, for example if a button is pressed during power on
